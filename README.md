@@ -1,10 +1,16 @@
-# CODTECH Internship – Task 1
-## 📊 Big Data Analysis using PySpark
+#BIG-DATA-ANALYSIS
 
-**Intern Name**: Sanjay Rajeshbabu  
-**Batch**: BCA Data Analytics (2024–2027)
+COMPANY: CODTECH IT SOLUTIONS
 
----
+NAME: SOURABH DEWANGAN
+
+INTERN ID: CT04DZ515
+
+DOMAIN:  DATA ANALYTICS
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
 
 ## ✅ Task Description
 
